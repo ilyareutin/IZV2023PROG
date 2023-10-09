@@ -2,7 +2,7 @@
 Projekta galvenā ideja un mērķis ir izveidot digitālu ierīci, kas nodrošinās iespēju sēkot līdzi laikapstākļiem vidē, kur ierīce atrodas, mērot gaisa temperatūru, relatīvo gaisa mitrumu, kā arī atmosfēras spiedienu. Ierīce nodrošinās arī iespēju paredzēt laikapstākļus, balstoties uz augstāk minētiem lielumiem un šo lielumu izmaiņām laikā. Nepieciešamo informāciju ir paredzēts izvadīt uz ierīces ekrāna.
 Projekta nosaukums ir Smart MeteoBox.
 
-Izmantotās tehnoloģijas: plānots izmantot C++ (!!!)
+Izmantotās tehnoloģijas: C++, Arduino IDE. 
 
 Dalībnieki: Kirils Koļesņikovs (darba plānā atzīmēts ar zaļo krāsu), Ilya Reutin (ar zilo), Varvara Gromova (ar oranžo)
 
